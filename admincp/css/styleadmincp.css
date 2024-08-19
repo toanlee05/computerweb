@@ -1,0 +1,32 @@
+/* Định dạng danh sách không được sắp xếp */
+ul.admincp_list {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+
+/* Định dạng mục danh sách */
+ul.admincp_list li {
+    float: left;
+    margin: 5px;
+}
+
+/* Định dạng lớp xóa rõ */
+.clear {
+    clear: both;
+}
+
+/* Định dạng tiêu đề quản trị */
+h3.title_admin {
+    text-align: center;
+    font-size: 40px;
+    color: blue;
+}
+
+/* Định dạng phần bọc */
+.wrapper {
+    border: 1px solid #000;
+    height: auto;
+    width: 90%;
+    margin: 0 auto;
+}
